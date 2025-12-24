@@ -10,3 +10,4 @@ Add alias "st" "lg".
 Tips:
     Each repository`s config is on .git/config
     User`s config is on User/.gitconfig
+test vs code gitui.
